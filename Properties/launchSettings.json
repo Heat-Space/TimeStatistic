@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "srv": {
+      "commandName": "Executable",
+      "executablePath": "D:\\tshock-server\\TShock.Server.exe",
+      "workingDirectory": "D:\\tshock-server"
+    }
+  }
+}
